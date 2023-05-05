@@ -1,0 +1,15 @@
+{
+  "name": "expressapp",
+  "version": "1.0.0",
+  "description": "for learn express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anjani kumar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "hbs": "^4.2.0"
+  }
+}
